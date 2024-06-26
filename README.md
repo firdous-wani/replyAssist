@@ -26,6 +26,13 @@ pnpm build
 npm run build
 ```
 
+
+https://github.com/firdous-wani/replyAssist/assets/149361552/e4b3a960-b489-4643-9a04-1ea0a44a0bed
+
+
+
+
+
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
 ## Submit to the webstores
